@@ -1,0 +1,22 @@
+{
+  "name": "HHContactKit",
+  "version": "0.1.0",
+  "summary": "A short description of HHContactKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chinafengjun@gmail.com/HHContactKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chinafengjun@gmail.com": "liufengjun@chinawutong.com"
+  },
+  "source": {
+    "git": "https://github.com/chinafengjun@gmail.com/HHContactKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHContactKit/Classes/**/*"
+}

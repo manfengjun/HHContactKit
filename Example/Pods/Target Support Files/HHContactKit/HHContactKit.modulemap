@@ -1,0 +1,6 @@
+framework module HHContactKit {
+  umbrella header "HHContactKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

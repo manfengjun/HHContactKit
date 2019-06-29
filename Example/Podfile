@@ -1,0 +1,12 @@
+use_frameworks!
+inhibit_all_warnings!
+
+target 'HHContactKit_Example' do
+  pod 'HHContactKit', :path => '../'
+
+  target 'HHContactKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - HHContactKit (0.1.0)
+
+DEPENDENCIES:
+  - HHContactKit (from `../`)
+
+EXTERNAL SOURCES:
+  HHContactKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHContactKit: bc5ba4b2cb86e9dd55aea4d1728aa3d35bd57ab0
+
+PODFILE CHECKSUM: 218bc17ce71d28d2c970d5ede79d6f5b6c322576
+
+COCOAPODS: 1.7.2
